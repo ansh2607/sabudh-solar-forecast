@@ -23,7 +23,7 @@ PySocks #@ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
 python-dateutil==2.8.1
 pytz==2021.1
 requests #@ file:///tmp/build/80754af9/requests_1629994808627/work
-ruamel-yaml-conda #@ file:///Users/ktietz/demo/mc3/conda-bld/ruamel_yaml_1629464769899/work
+#ruamel-yaml-conda #@ file:///Users/ktietz/demo/mc3/conda-bld/ruamel_yaml_1629464769899/work
 six #@ file:///tmp/build/80754af9/six_1623709665295/work
 sqlparse==0.4.1
 tqdm #@ file:///tmp/build/80754af9/tqdm_1635330843403/work
