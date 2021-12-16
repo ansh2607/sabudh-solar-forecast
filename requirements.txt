@@ -4,8 +4,8 @@ certifi==2021.5.30
 #csffi #@ file:///Users/runner/miniforge3/conda-bld/cffi_1625489825129/work
 charset-normalizer #@ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.0.1
-conda==4.10.3
-conda-package-handling #@ file:///Users/ktietz/demo/mc3/conda-bld/conda-package-handling_1630675621471/work
+#conda==4.10.3
+#conda-package-handling #@ file:///Users/ktietz/demo/mc3/conda-bld/conda-package-handling_1630675621471/work
 cryptography #@ file:///Users/builder/miniconda3/envs/prefect/conda-bld/cryptography_1635432108608/work
 Django==3.2.5
 Flask==2.0.1
