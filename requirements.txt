@@ -1,31 +1,31 @@
 asgiref==3.4.1
 brotlipy==0.7.0
 certifi==2021.5.30
-#cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1625489825129/work
-#charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+csffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1625489825129/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.0.1
 conda==4.10.3
-#conda-package-handling @ file:///Users/ktietz/demo/mc3/conda-bld/conda-package-handling_1630675621471/work
-#cryptography @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/cryptography_1635432108608/work
+conda-package-handling @ file:///Users/ktietz/demo/mc3/conda-bld/conda-package-handling_1630675621471/work
+cryptography @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/cryptography_1635432108608/work
 Django==3.2.5
 Flask==2.0.1
 gunicorn==20.1.0
-#idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
 numpy==1.21.0
 pandas==1.3.0
 pycosat==0.6.3
-#pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-#pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
-#PySocks @ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+PySocks @ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
 python-dateutil==2.8.1
 pytz==2021.1
-#requests @ file:///tmp/build/80754af9/requests_1629994808627/work
-#ruamel-yaml-conda @ file:///Users/ktietz/demo/mc3/conda-bld/ruamel_yaml_1629464769899/work
-#six @ file:///tmp/build/80754af9/six_1623709665295/work
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+ruamel-yaml-conda @ file:///Users/ktietz/demo/mc3/conda-bld/ruamel_yaml_1629464769899/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
 sqlparse==0.4.1
-#tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
 urllib3==1.26.7
 Werkzeug==2.0.1
